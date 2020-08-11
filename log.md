@@ -2,7 +2,7 @@
 
 ### Day 0: August 10, 2020
 
-**Today's Progress**:Installed python for windows.Read about strings, ints and floats in python and how they are manipulated. I did the excercices if the book.
+**Today's Progress**:Installed python for windows.Read about variables, strings, ints and floats in python and how they are manipulated. I did the excercices of the book.
 
 **Thoughts:** Overall, I think it's easy so far since I already have a background in programming. But reading about the basics again is refreshing.
 
@@ -11,11 +11,11 @@
 
 ### Day 1: August 11, 2020
 
-**Today's Progress**:Installed python for windows.Read about strings, ints and floats in python and how they are manipulated. I did the excercices if the book.
+**Today's Progress**:I read about lists in python and diffrent ways to access elements, add, remove, slice and copy a list. I did the two first excercices of the chapter4.I'm at page 64.
 
-**Thoughts:** Overall, I think it's easy so far since I already have a background in programming. But reading about the basics again is refreshing.
+**Thoughts:** Overall, I think it's easy so far since I already have a background in programming. But reading about the basics again is refreshing.I'm also satisfied with my progress so far and the book is very good! I'll continue the chapter tomorrow and read about tuple and the if statement.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** No links
 
 
 
