@@ -1,13 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 10, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:Installed python for windows.Read about strings, ints and floats in python and how they are manipulated. I did the excercices if the book.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Overall, I think it's easy so far since I already have a background in programming. But reading about the basics again is refreshing.
+
+**Link to work:** No links.
+
+
+### Day 1: August 11, 2020
+
+**Today's Progress**:Installed python for windows.Read about strings, ints and floats in python and how they are manipulated. I did the excercices if the book.
+
+**Thoughts:** Overall, I think it's easy so far since I already have a background in programming. But reading about the basics again is refreshing.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
+
+
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
