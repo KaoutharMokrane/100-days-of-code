@@ -17,9 +17,13 @@
 
 **Link to work:** No links
 
+### Day 2: August 12, 2020
 
+**Today's Progress**:I read about conditional statments, and dictionnaries in python and the different ways to use them. I finished the excercises concerning the lists in chapter 4 and those about if statements and dictionnaries. I'm at chapter 6 page 112.
 
+**Thoughts:** I have a better understanding of dictionaries now and the different ways to use them in python. The book is just so easy to read and keeps you intertained. I'll dive into user input, while loops, and functions in chapter 7 and 8.  
 
+**Link to work:** No links
 
 
 ### Day 0: February 30, 2016 (Example 2)
